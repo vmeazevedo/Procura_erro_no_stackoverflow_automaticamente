@@ -12,6 +12,8 @@ Utilizei o try/except normalmente para simular um erro e joguei a string do erro
 Depois dentro do próprio except utilizei a biblioteca webbrowser para realizar a pesquisa do erro diretamente no site da stackoverflow.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Simple automatic error search algorithm on the Stackoverflow website
 Simple algorithm using the webbrowser and logging libraries to search for any errors on the stackoverflow website automatically.
